@@ -1,6 +1,6 @@
 some stuff
 
 contact info:
-email:
+email: myemail@mail.com
 phone:
 
